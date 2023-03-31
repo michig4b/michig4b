@@ -104,14 +104,6 @@ How are you?
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-<h2 align="left" id="macropower-tech">Github Metrics</h2>
-
-<br />
-
-<p align="center">
-    <img alt="metrics" title="Github Metrics" src="https://github.com/michig4b/michig4b/blob/main/github-metrics.svg" width="100%" />
-</p>
-
 <h2 align="left" id="macropower-tech">Github Status</h2>
 
 <br />
@@ -125,8 +117,7 @@ How are you?
 <br />
 
 > GitHub Activity Graph
-<!-- https://github.com/michig4b/github-readme-activity-graph -->
-<a href="https://github.com/michig4b/michig4b"><img alt="Senior Dev's activity graph" src="https://activity-graph.herokuapp.com/graph?username=michig4b&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
+<a href="https://github.com/michig4b/michig4b"><img alt="Michele's activity graph" src="https://activity-graph.herokuapp.com/graph?username=michig4b&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
 
 <br />
 
