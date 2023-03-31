@@ -136,10 +136,6 @@ How are you?
 </div>
 
 <p align="center">
-    <img alt="snake animation" title="Snake Animation" src="https://github.com/michig4b/michig4b/blob/main/github-contribution-grid-snake.svg" width="100%" />
-</p>
-
-<p align="center">
     <img 
       alt="snake animation"
       title="Snake Animation" 
