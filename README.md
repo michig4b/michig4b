@@ -117,9 +117,6 @@ How are you?
 <br />
 
 > GitHub Activity Graph
-<a href="https://github.com/michig4b/michig4b"><img alt="Michele's activity graph" src="https://activity-graph.herokuapp.com/graph?username=michig4b&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
-
-<br />
 
 <p align="right">
   <a href="https://github.com/michig4b?tab=repositories&sort=stargazers">
